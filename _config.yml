@@ -1,14 +1,26 @@
-layout_spectrum: 0.2831541
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.2150538
-  brandStrength: 0.6324509
-  lightness: 0.5501792
-  rhythmicContrast: 0.546595
+  saturation: 0.7634408
+  brandStrength: 0.6290323
+  lightness: 0.3046595
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#6A8BAE'
+    - '#9CBFDF'
+    - '#3F5E73'
+    - '#2678BA'
+    - '#423233'
+  rhythmicContrast: 0.4946237
 typography_spectrum: 0.1666667
+layout_spectrum: 0.3082437
 name: Our First Flat
