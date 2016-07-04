@@ -1,3 +1,7 @@
+name: Our First Flat
+favicon: null
+layout_spectrum: 0.24647
+typography_spectrum: 0.01085
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7634408
-  brandStrength: 0.6290323
-  lightness: 0.3046595
   brandColors:
     - '#6A8BAE'
     - '#9CBFDF'
     - '#3F5E73'
     - '#2678BA'
     - '#423233'
-  rhythmicContrast: 0.4946237
-typography_spectrum: 0.1666667
-layout_spectrum: 0.3082437
-name: Our First Flat
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.1875
+  rhythmicContrast: 0.75
+purpose: []
