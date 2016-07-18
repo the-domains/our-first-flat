@@ -1,6 +1,6 @@
 name: Our First Flat
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.255
 collections:
   - index:
@@ -33,7 +33,7 @@ color:
     - '#ebeff0'
     - '#516c5d'
     - '#231917'
-  brandStrength: 0.5
+  brandStrength: 0.25
   lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 0.5
