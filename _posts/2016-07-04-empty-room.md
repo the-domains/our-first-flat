@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: 'Next up, painting...'
-datePublished: '2016-07-18T13:46:48.873Z'
-dateModified: '2016-07-04T12:15:35.711Z'
+datePublished: '2016-07-18T13:50:37.792Z'
+dateModified: '2016-07-18T13:46:54.114Z'
 title: Empty Room
 author: []
 sourcePath: _posts/2016-07-04-empty-room.md
