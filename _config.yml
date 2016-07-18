@@ -1,7 +1,7 @@
 name: Our First Flat
 favicon: null
-layout_spectrum: 0.24647
-typography_spectrum: 0.01085
+layout_spectrum: 1
+typography_spectrum: 0.255
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#6A8BAE'
-    - '#9CBFDF'
-    - '#3F5E73'
-    - '#2678BA'
-    - '#423233'
-  brandStrength: 0.75
+    - '#6f8d71'
+    - '#babec1'
+    - '#ebeff0'
+    - '#516c5d'
+    - '#231917'
+  brandStrength: 0.5
   lightness: 0.75
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
